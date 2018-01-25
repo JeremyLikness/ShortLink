@@ -6,3 +6,16 @@ Read the walkthrough article: [Azure Serverless for Serverless .NET in Minutes](
 
 See the full, production version of this project [here](https://github.com/JeremyLikness/serverless-url-shortener).
 
+## TL;DR; 
+
+`git clone https://github.com/JeremyLikness/ShortLink.git`
+
+Open `ShortLink.sln` with Visual Studio 2017 15.5 or later (must have the Azure workload selected).
+
+Hit **F5**.
+
+Read the blog post for the rest!
+
+Regards,
+
+[@JeremyLikness](https://twitter.com/JeremyLikness)
