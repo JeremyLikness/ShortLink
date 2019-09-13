@@ -6,6 +6,8 @@ Read the walkthrough article: [Azure Storage for Serverless .NET in Minutes](htt
 
 See the full, production version of this project [here](https://github.com/JeremyLikness/serverless-url-shortener).
 
+[![Free Azure Account](https://img.shields.io/badge/FREE-Azure-0077ff)](https://jlik.me/gmn) Get your [Free Azure Acccount](https://jlik.me/gmn)
+
 ## TL;DR; 
 
 `git clone https://github.com/JeremyLikness/ShortLink.git`
